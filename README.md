@@ -32,4 +32,4 @@ Welcome to the Teacher Dashboard project! This web application is designed to as
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <Ari-111/Teachers dashboard.github>
